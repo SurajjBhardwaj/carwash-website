@@ -47,7 +47,7 @@ To set up and run the MERN stack website, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/mern-website.git
+   git clone https://github.com/SurajjBhardwaj/carwash-website
    ```
    
 2. Navigate to the project directory:
